@@ -4,9 +4,9 @@
 In this project, you will be building a back wnd with Django for your iTunes project from phase 1.
 Tasks
 
-    ```Follow the directions below for "Using This Template" to start a project from the Django Project Template.```
+Follow the directions below for "Using This Template" to start a project from the Django Project Template.
 
-Django Project Template
+#Django Project Template
 
 This project was generated from the Momentum Django project template. This template sets up some minimal changes:
 ```
@@ -19,7 +19,7 @@ This project was generated from the Momentum Django project template. This templ
     Pipenv is used to manage dependencies.
 ```
 
-Using this template
+## Using this template
 
 In an *empty directory*, run:
 ```py
