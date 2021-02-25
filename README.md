@@ -2,11 +2,12 @@
 # Building a Django Back End
 
 In this project, you will be building a back wnd with Django for your iTunes project from phase 1.
-Tasks
 
-Follow the directions below for "Using This Template" to start a project from the Django Project Template.
+## Tasks
+1. Follow the directions below for "Using This Template" to start a project from the Django Project Template.
+2. 
 
-#Django Project Template
+# Django Project Template
 
 This project was generated from the Momentum Django project template. This template sets up some minimal changes:
 ```
@@ -33,4 +34,4 @@ cp project/.env.sample project/.env
 
 ```
 
-If you want to use another directory for your project directory, replace project above with the name of your directory.
+**Replace `project` above with the name of your project.**
